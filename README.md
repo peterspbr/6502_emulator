@@ -2,7 +2,7 @@
 This is a (not yet) accurate 6502 emulator for a Commodore64 emulator project.
 
 ## Why to make a Commodore64 emulator from zero?
-I'm at my university vacations and why not? This is a good way to become a better programmer. When you are making the code for emulating a bare metal process and learning about machine code and whatever, it makes you feel better and you can understand what you are making while coding.
+I'm at my university vacations so... why not? This is a good way to become a better programmer. When you are making the code for emulating a bare metal process and learning about machine code and whatever, it makes you feel better and you can understand what you are making while coding.
 Some programmers just know how to make things works, but if i ask him: "What does this printf() function actualy does on the machine?", and his answer will be really poor or inexistent, that's the bad programmer.
 
 ## Todo
