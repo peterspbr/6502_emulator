@@ -30,7 +30,9 @@ FCFB   20 5B FF   JSR $FF5B       ; more initialising... mostly set system IRQ t
 FCFE   58         CLI             ; clear interrupt flag
 FCFF   6C 00 A0   JMP ($A000)     ; direct to BASIC cold start via vector
 ```
+
 I want to make exactly how it is, but my processor is missing a lot of instructions, like ```STX```, ```CLI```, ```SEI```, ```TXS```, etc.
+
 ---
 
 I need to emulate cartridges, video output, audio output, kernel loading, basic loading, character set loading... hmmm... a lot of things.
